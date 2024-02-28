@@ -52,7 +52,7 @@ I've learned a lot. I've learned how to start a project, and progress step by st
 
 ### Continued development
 
-I want to hone my skill on layout especially using grid. And also would like to further imrove the layout for the desktop version this project.
+I want to hone my skill on layout especially using grid. And also would like to further imrove the layout for the desktop version of this project.
 
 ## Author
 
